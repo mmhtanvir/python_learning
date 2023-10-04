@@ -1,0 +1,17 @@
+loop.py
+    FOR LOOP print
+        1 - 100
+        a to z
+        * triangle
+    GIT PUSH after each step
+
+    
+array.py
+    fruits = ['apple', 'banana', 'mango'] and print
+    add 'jackfruit' to the array and print
+    remove 'banana' from array and print
+
+    add a to z in an array using for loop and print
+
+    add 1 to 10 in an array, and print
+
