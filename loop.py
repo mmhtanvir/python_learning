@@ -11,6 +11,15 @@ for i in range(1 , 101, 2):
     print(i)
 
 
+
+#capital alphabet
+for letter in range(ord('A'), ord('Z')+1):
+    print(chr(letter))
+
+
+#small alphabet
+for letter in range(ord('a'), ord('z')+1):
+    print(chr(letter))
 #triangle
 
 num_rows = 10
