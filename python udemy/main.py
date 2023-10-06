@@ -34,3 +34,9 @@ print(x-y)
 print(x*y)
 print(x/y)
 print(x%y)
+
+#3. Create a variable called name and store your name in it as a string.
+
+name = "tanvir"
+
+print(f"hello, {name}")
