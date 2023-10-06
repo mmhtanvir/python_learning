@@ -40,3 +40,23 @@ print(x%y)
 name = "tanvir"
 
 print(f"hello, {name}")
+
+
+#4. Create three variables in one line and assign each one a different food item.
+
+x, y, z = "apple", "banana", "orange"
+print() #x,y,z
+
+
+#5. Print out "Hello" ten times using arithmetic operators.
+
+print("helllo"*10)
+
+#6. Set your name and age variables in one line with multiple assignment
+
+name, age = "Tanvir", 18
+
+print(f"my name is {name}, & I am {age} years old")
+
+sentence = "my name is %s and Iam %d years old"
+print(sentence % ("tanvir", 18))
